@@ -1,0 +1,32 @@
+{
+  "args": {
+    "data": "data/chatbot_arena.parquet",
+    "out": "results",
+    "epochs": 8,
+    "batch_size": 64,
+    "max_per_family": 1600,
+    "min_per_family": 100,
+    "seq_len": 180,
+    "seeds": [
+      42,
+      43,
+      44
+    ],
+    "rq3": true,
+    "skip_ablation": false,
+    "skip_baselines": false
+  },
+  "device": "cpu",
+  "torch": "2.14.1+cu130",
+  "python": "3.12.3",
+  "labels": [
+    "ChatGLM",
+    "Claude",
+    "GPT",
+    "Google",
+    "Llama-derived"
+  ],
+  "n_train": 5600,
+  "n_val": 800,
+  "n_test": 1600
+}

@@ -1,0 +1,11 @@
+               precision    recall  f1-score   support
+
+      ChatGLM       0.37      0.55      0.44       320
+       Claude       0.76      0.79      0.77       320
+          GPT       0.46      0.41      0.43       320
+       Google       0.54      0.68      0.60       320
+Llama-derived       0.40      0.12      0.19       320
+
+     accuracy                           0.51      1600
+    macro avg       0.51      0.51      0.49      1600
+ weighted avg       0.51      0.51      0.49      1600

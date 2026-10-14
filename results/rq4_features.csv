@@ -1,0 +1,8 @@
+,word_count,word_count,lexical_diversity,lexical_diversity,ttr_first100,ttr_first100,bullet_lines,bullet_lines,code_fences,code_fences,newline_count,newline_count,avg_token_len,avg_token_len,ai_disclaimer_phrases,ai_disclaimer_phrases
+,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median,mean,median
+label,,,,,,,,,,,,,,,,
+ChatGLM,203.634,165.0,0.503,0.479,0.608,0.6,2.164,0.0,0.322,0.0,9.544,6.0,3.866,3.917,0.272,0.0
+Claude,245.363,258.0,0.515,0.471,0.629,0.62,2.842,0.0,0.352,0.0,17.401,14.0,3.944,4.061,0.182,0.0
+GPT,203.094,139.0,0.562,0.54,0.652,0.65,2.611,0.0,0.323,0.0,11.944,6.0,3.94,4.0,0.266,0.0
+Google,268.708,249.5,0.439,0.402,0.578,0.57,3.332,0.0,0.474,0.0,14.754,10.0,3.689,3.765,0.129,0.0
+Llama-derived,179.779,131.0,0.544,0.519,0.631,0.618,1.867,0.0,0.191,0.0,7.651,3.0,3.863,3.948,0.213,0.0

@@ -1,0 +1,16 @@
+split,family,count
+train,ChatGLM,1120
+train,Claude,1120
+train,GPT,1120
+train,Google,1120
+train,Llama-derived,1120
+val,ChatGLM,160
+val,Claude,160
+val,GPT,160
+val,Google,160
+val,Llama-derived,160
+test,ChatGLM,320
+test,Claude,320
+test,GPT,320
+test,Google,320
+test,Llama-derived,320

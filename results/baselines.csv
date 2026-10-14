@@ -1,0 +1,7 @@
+baseline,features,accuracy,macro_f1
+chance (uniform),-,0.2,
+majority class (ChatGLM),-,0.2,0.06666666666666667
+TF-IDF (1-2gram) + LogReg,input,0.225,0.22450641712639302
+TF-IDF (1-2gram) + LogReg,output,0.59375,0.5898645396402522
+TF-IDF (1-2gram) + LogReg,both,0.58,0.574940818184975
+TF-IDF (1-2gram) + LogReg,output_noformat,0.5725,0.5658220718154834

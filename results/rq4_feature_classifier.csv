@@ -1,0 +1,2 @@
+model,accuracy,macro_f1
+GradientBoosting on 8 handcrafted features,0.413125,0.411463603289702
